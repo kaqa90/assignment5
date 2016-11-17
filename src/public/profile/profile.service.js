@@ -6,7 +6,7 @@
 
     function ProfileService() {
 
-        var service = this;
+        var service = this; 
 
         return {
             getProfile: function () {
